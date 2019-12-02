@@ -4,23 +4,23 @@
  You’ve learned about `true` and `false`. You’ve seen how to write comparison statements that can have a result of `true` or `false`. The final part of the puzzle is how to make your code do different things depending on these results.
  
  At the start of the playground, you read about reactions to the length of a video. Now it’s time to implement that in code. What you want to happen is this:
-
+ 
  - If the duration is shorter than 5, say it was too short.
  - If the duration is greater than or equal to 5, say it was very nice.
  
  The code is similar to how you’d write it in prose:
-*/
+ */
 let videoLength = 3
 
+
 if videoLength < 5 {
-    "If I blinked, I'd miss it!"
+    "Too Short! If I blinked, I'd miss it!"
 }
 
 if videoLength >= 5 {
-    "That's lovely."
+    "That's a lovely length!"
 }
 /*:
- 
  This is called an _if statement_. It works like this:
  
  - `if`…
@@ -30,11 +30,20 @@ if videoLength >= 5 {
  
  In the code above, you can see in the results sidebar that the first if statement is run. The code inside the second if statement isn’t executed because the conditions for it aren’t true.
  
- - experiment: Change the value of `videoLength` and see how the new value affects the code that is run.
+ - Experiment: Change the value of `videoLength` and see how the new value affects the code that is run. Seriously, go try it out!
+ */
+// When I set the length to
+// DESCRIBE WHAT HAPPENS HERE...
 
- - experiment: What happens if you change the comparison in the first example, so it complains about videos shorter than 10 seconds? What happens if you then set the `videoLength` to 8?
+//: - Experiment: What happens if you change the comparison in the first example, so it complains about videos shorter than 10 seconds? What happens if you then set the `videoLength` to 8?
+// When I change 5 to 10 and set length to 8...
+// DESCRIBE WHAT HAPPENS HERE...
 
- Your second experiment may have had strange results. Head to the next page to straighten them out.
-
-[Previous](@previous)  |  page 5 of 13  |  [Next: Else](@next)
-*/
+/*:
+ 
+ That second experiment had strange results, right?
+ 
+ Head to the next page to straighten them out.
+ 
+ [Previous](@previous)  |  page 5 of 13  |  [Next: Else](@next)
+ */
