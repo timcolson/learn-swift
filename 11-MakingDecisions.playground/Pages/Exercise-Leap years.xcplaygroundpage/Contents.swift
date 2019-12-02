@@ -1,4 +1,6 @@
 /*:
+ 
+ ![Leaping Goats](mountain-goats-1156056_1280_crop.jpg)
  ## Exercise: Leap Years
  
  To decide if a year is a leap year, there are several decisions that have to be made:

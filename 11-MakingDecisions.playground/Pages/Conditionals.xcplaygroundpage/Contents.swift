@@ -1,5 +1,8 @@
 /*:
+ ![Unconditional Pug](pug-801826_1280_crop.jpg)
  ## Conditionals
+ 
+ We may get unconditional love from a pupppy, but computers are cold calculating binary machines. 
  
  You’ve learned about `true` and `false`. You’ve seen how to write comparison statements that can have a result of `true` or `false`. The final part of the puzzle is how to make your code do different things depending on these results.
  

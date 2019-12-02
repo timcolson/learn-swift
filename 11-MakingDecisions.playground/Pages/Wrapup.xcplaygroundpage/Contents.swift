@@ -1,4 +1,6 @@
 /*:
+ ![Wrapup](santa-claus-1819933_1280_crop_lq.jpg "Wrap up the gifts and take them home!")
+
  ## Wrapup
  
  - Making decisions and choosing which code to run based on those decisions adds power to your code.
@@ -7,8 +9,11 @@
  
  ```
  let youWantToPractice = true
+ 
  if youWantToPractice {
-    Go to the exercises!
+ 
+     --> Go to the exercises!
+ 
  }
  ```
  

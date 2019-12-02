@@ -1,4 +1,5 @@
 /*:
+ ![What remains](floured-surface-71357_1280_crop.jpg)
  ## Remainder Operator
  
  Your band hired that extra member and has gone on tour. But there’s more trouble.

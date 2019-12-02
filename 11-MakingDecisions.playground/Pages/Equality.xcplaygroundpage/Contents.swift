@@ -1,4 +1,7 @@
 /*:
+ 
+ ![Storm Troopers](stormtrooper-1343772_1280.jpg "Are they equal???")
+ 
  ## Equality
  
  You’ve learned that `true` and `false` are special values. Without typing in `Bool`s directly (which isn’t really making a decision), how do you ask questions in code? One way is by making _comparison statements_.
