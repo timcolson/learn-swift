@@ -3,10 +3,10 @@
  
  Your band hired that extra member and has gone on tour. But there’s more trouble.
  
- They insist on a bowl of candy in the dressing room every night. If it doesn’t divide exactly between all of them, they’ll quit. 
+ They insist on a bowl of candy in the dressing room every night. If it doesn’t divide exactly between all of them, they’ll quit.
  
- You can use the _remainder operator_ to find out if one number divides evenly into another. The remainder operator `%` gives the remainder of a division.
-*/
+ You can use the _**remainder operator**_ to find out if one number divides evenly into another. The remainder operator `%` gives the remainder of a division.
+ */
 //: 4 divided by 2 is 2, with no remainder, so this line equals zero
 4 % 2
 //: 5 divided by 2 is 2, with a remainder of one, so this line equals one:
@@ -29,7 +29,8 @@ if isCandyAmountAcceptable(bandMemberCount: bandMemberCount, candyCount: candyCo
 } else {
     "Everyone quits! This is unacceptable!"
 }
-//: > In some other programming languages `%` is called the modulo operator and has different behavior for negative numbers.
+//: > In some other programming languages `%` is called the [modulo operator](https://en.wikipedia.org/wiki/Modulo_operation) and has different behavior for negative numbers.
+//: - Callout(Tip): Modulo is a great way to test for odd/even by dividing by 2; and it's often used to alternate colors in HTML tables.
 //:
 //: Now summarize what you’ve learned.
 //:

@@ -32,13 +32,13 @@
 
 /*:
  Check the results sidebar to see the outcomes of these comparisons 👉.
-
+ 
  - note: A helpful way to remember what `>` and `<` mean is to think of the symbol as a greedy mouth, always eating the bigger value:\
  🎂>🍰
-
-
+ 
+ 
  - callout(Exercise): Practice writing out some comparison statements of your own. What happens if you try to compare non-integer types, like doubles or strings?
-*/
+ */
 
 
 
