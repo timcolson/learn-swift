@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' display-mode='rendered' executeOnSourceChanges='true'>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
     <pages>
         <page name='Introduction'/>
         <page name='True and False'/>
@@ -14,5 +14,7 @@
         <page name='Exercise-If Statement Practice'/>
         <page name='Exercise-Else practice'/>
         <page name='Exercise-Leap years'/>
+        <page name='Test Case Walkthrough'/>
+        <page name='Run All Tests'/>
     </pages>
 </playground>
