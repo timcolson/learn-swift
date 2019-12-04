@@ -92,5 +92,3 @@ class DecisionTests: XCTestCase {
 //: ## Run the tests!
 DecisionTests.defaultTestSuite.run()
 
-//: [Next](@next)
-

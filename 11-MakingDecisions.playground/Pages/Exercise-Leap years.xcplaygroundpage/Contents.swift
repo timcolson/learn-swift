@@ -47,6 +47,11 @@ if myAnswer {
 }
 //: [Previous](@previous)  |  page 13 of 13
 
+//: ## Learn how to test your code!
+//: [Testing Walkthrough](@next)
+
+//: - - -
+
 /*:
 
 
